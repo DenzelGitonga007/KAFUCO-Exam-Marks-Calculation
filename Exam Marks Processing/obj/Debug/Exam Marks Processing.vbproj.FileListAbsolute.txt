@@ -1,0 +1,13 @@
+D:\CAMPUS\Programming\VB\Exam Marks Processing\Exam Marks Processing\bin\Debug\Exam Marks Processing.exe.config
+D:\CAMPUS\Programming\VB\Exam Marks Processing\Exam Marks Processing\bin\Debug\Exam Marks Processing.exe
+D:\CAMPUS\Programming\VB\Exam Marks Processing\Exam Marks Processing\bin\Debug\Exam Marks Processing.pdb
+D:\CAMPUS\Programming\VB\Exam Marks Processing\Exam Marks Processing\bin\Debug\Exam Marks Processing.xml
+D:\CAMPUS\Programming\VB\Exam Marks Processing\Exam Marks Processing\obj\Debug\Exam Marks Processing.vbproj.AssemblyReference.cache
+D:\CAMPUS\Programming\VB\Exam Marks Processing\Exam Marks Processing\obj\Debug\Exam Marks Processing.vbproj.SuggestedBindingRedirects.cache
+D:\CAMPUS\Programming\VB\Exam Marks Processing\Exam Marks Processing\obj\Debug\Exam_Marks_Processing.Resources.resources
+D:\CAMPUS\Programming\VB\Exam Marks Processing\Exam Marks Processing\obj\Debug\Exam Marks Processing.vbproj.GenerateResource.cache
+D:\CAMPUS\Programming\VB\Exam Marks Processing\Exam Marks Processing\obj\Debug\Exam Marks Processing.vbproj.CoreCompileInputs.cache
+D:\CAMPUS\Programming\VB\Exam Marks Processing\Exam Marks Processing\obj\Debug\Exam Marks Processing.exe
+D:\CAMPUS\Programming\VB\Exam Marks Processing\Exam Marks Processing\obj\Debug\Exam Marks Processing.xml
+D:\CAMPUS\Programming\VB\Exam Marks Processing\Exam Marks Processing\obj\Debug\Exam Marks Processing.pdb
+D:\CAMPUS\Programming\VB\Exam Marks Processing\Exam Marks Processing\obj\Debug\Exam_Marks_Processing.Form1.resources
